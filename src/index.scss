@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainblack:black;
+$mainwhite: rgb(247, 234, 234);
+$maingreen: rgb(3, 66, 3);
+$maingray: rgb(150, 136, 136);
+$mainyellow: rgb(226, 212, 17);
+
+body{
+    background: $mainwhite;
+    color:$maingreen;
+    font-family: 'Merriweather', serif;
+}
+
+.logoimg{
+    width: 5rem;
+    height: 5rem;
+}
